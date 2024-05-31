@@ -27,6 +27,7 @@
    git clone https://github.com/kullaniciadi/kupun-macerasi.git
    git clone https://github.com/kullaniciadi/kupun-macerasi.git
   
+![8](https://github.com/Umutmert1903/kupun-maceras-/assets/148457311/595e0650-385c-44b1-b726-9645bd7b4b8c)
 ![2](https://github.com/Umutmert1903/kupun-maceras-/assets/148457311/3f5228ff-a23f-4d71-809e-811d03114e2a)
 ![3](https://github.com/Umutmert1903/kupun-maceras-/assets/148457311/f1370986-e488-4021-a3eb-92138ae3befe)
 ![4](https://github.com/Umutmert1903/kupun-maceras-/assets/148457311/92ca02fb-ad58-42fc-ad15-437339ec6e2f)
