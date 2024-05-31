@@ -25,3 +25,6 @@
 1. Bu depoyu klonlayın:
    ```bash
    git clone https://github.com/kullaniciadi/kupun-macerasi.git
+   git clone https://github.com/kullaniciadi/kupun-macerasi.git
+
+
