@@ -31,6 +31,9 @@
 ![3](https://github.com/Umutmert1903/kupun-maceras-/assets/148457311/f1370986-e488-4021-a3eb-92138ae3befe)
 ![4](https://github.com/Umutmert1903/kupun-maceras-/assets/148457311/92ca02fb-ad58-42fc-ad15-437339ec6e2f)
 ![5](https://github.com/Umutmert1903/kupun-maceras-/assets/148457311/b36a3a22-ece2-4968-8342-8a75dbabc791)
+# OYUN VİDEOSU LİNKİ:
+https://youtu.be/n6LqKjQS08c?si=Hse8Y3K60AK6U-FW
+
 
 
 
